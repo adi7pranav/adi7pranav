@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **React, SpringBoot, Node**<br>💬 Ask me about HTML, JS, CSS, C++, Java, MYSQL, PHP<br><br>📫 How to reach me pranavaditya7@gmail.com<br><br>⚡ Fun fact: I enjoy basketball, volleyball, sketching and cooking
+- 🌱 I’m currently learning **React, SpringBoot, Node**<br>💬 Ask me about HTML, JS, CSS, C++, Java, MYSQL, PHP, React, MongoDB, SpringBoot<br><br>📫 How to reach me pranavaditya7@gmail.com<br><br>⚡ Fun fact: I enjoy basketball, volleyball, sketching and cooking
 
 
 ## 🌐 Socials:
